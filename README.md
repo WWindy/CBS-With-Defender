@@ -1,4 +1,7 @@
-﻿# CyberBattleSim
+
+ ![页-1(10)](https://github.com/user-attachments/assets/3aed397c-bb17-4551-a08f-84ad220b3923)
+
+ # CyberBattleSim
 
 > April 8th, 2021: See the [announcement](https://www.microsoft.com/security/blog/2021/04/08/gamifying-machine-learning-for-stronger-security-and-ai-models/) on the Microsoft Security Blog.
 
