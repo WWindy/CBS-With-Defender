@@ -1,5 +1,16 @@
+ # 防御者模型
+ - <img width="1009" height="415" alt="image" src="https://github.com/user-attachments/assets/80ab7f50-b495-4d5a-b54e-a0142aa441bd" />
 
- # 对于防御者表现以及相关实验介绍详见pptx文件
+- <img width="1052" height="501" alt="image" src="https://github.com/user-attachments/assets/8fda4628-ddbe-4e79-a8a3-861f8a0f4dd5" />
+
+- <img width="1048" height="476" alt="image" src="https://github.com/user-attachments/assets/f37509c5-6908-4820-8d86-f166a2263350" />
+# 训练结果
+- <img width="1052" height="497" alt="image" src="https://github.com/user-attachments/assets/2159e422-eacd-4746-bc75-47d239418122" />
+# 实验数据对比支撑
+- <img width="982" height="500" alt="image" src="https://github.com/user-attachments/assets/2013be00-6b5a-4c12-aab1-2a3ca1f33679" />
+- <img width="1045" height="493" alt="image" src="https://github.com/user-attachments/assets/5331542f-ebb3-40de-8ad3-a4cef44f9df4" />
+- <img width="996" height="493" alt="image" src="https://github.com/user-attachments/assets/4f5f3c17-f23f-4089-bed1-9e89e19d7fa4" />
+- <img width="1133" height="471" alt="image" src="https://github.com/user-attachments/assets/762f16cf-73fe-457c-8419-d35b124797ca" />
 
  # CyberBattleSim介绍
 
